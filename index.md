@@ -3,7 +3,7 @@
 This is my home page! My name is Madeline Savoiu and I am a student at [CSU Fullerton](http://www.fullerton.edu/). My major is Computer Science, and I expect to graduate in 2027.
 
 ## Computer Science Projects
-My GitHub page is http://github.com/msavoiu.
+My GitHub page is [http://github.com/msavoiu](http://github.com/msavoiu).
 
 ### CPSC 120
 
